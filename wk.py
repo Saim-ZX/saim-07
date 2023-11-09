@@ -218,4 +218,4 @@ def superuser():
         os.system("xdg-open https://wa.me/+8801967217481")
         superuser()
 superuser()
-mueor()
+mueor()BAD-BOY-1202126222u202_2a212622
